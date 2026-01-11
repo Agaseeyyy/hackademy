@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="public/img/hackademy-logo.svg" alt="Hackademy Logo" width="300">
+  <img src="public/img/favicon.png" alt="Hackademy Logo" width="300">
 </p>
 
-<h1 align="center">🛡️ Hackademy</h1>
+<h1 align="center">Hackademy</h1>
 
 <p align="center">
   <strong>A modern cybersecurity learning platform powered by Laravel</strong>
@@ -262,9 +262,3 @@ This project is open-sourced software licensed under the [MIT License](https://o
 - [Livewire](https://livewire.laravel.com) - Full-stack framework for Laravel
 - [Tailwind CSS](https://tailwindcss.com) - A utility-first CSS framework
 - [YouTube Data API](https://developers.google.com/youtube/v3) - For video content integration
-
----
-
-<p align="center">
-  Made with ❤️ for the cybersecurity community
-</p>
