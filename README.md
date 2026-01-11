@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Livewire-3.x-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
-  <img src="https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/TailwindCSS-4.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
@@ -38,12 +38,10 @@ Whether you're just starting your cybersecurity journey or looking to expand you
 ## ✨ Features
 
 - 🎥 **YouTube Integration** - Automatically fetches and displays videos from configured YouTube playlists
-- 🔍 **Real-time Search** - Livewire-powered instant search with dropdown suggestions
-- 🏷️ **Smart Categorization** - Automatic video categorization based on title keywords (network security, pentesting, cryptography, etc.)
 - 📱 **Fully Responsive** - Beautiful UI that works seamlessly on desktop, tablet, and mobile
-- 📝 **Blog System** - Built-in blog functionality with Markdown support (via Parsedown)
+- 📝 **Blog System** - Built-in basic blog functionality
 - 👤 **User Management** - Role-based authentication with admin panel
-- 📊 **View Statistics** - Track video popularity and engagement
+- 📊 **View Statistics** - Track popularity and engagement
 - 🔐 **Secure Admin Panel** - Protected admin routes with middleware
 - ⚡ **Caching** - Smart caching for YouTube API responses to improve performance
 - 🎨 **Modern UI** - Clean, professional design with smooth animations
